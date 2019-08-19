@@ -1,10 +1,6 @@
 # JavaDemo
 
-> Some code or demo written in the Java language
+> Some code or demo written in  Java.
 
 
-
-### Catalog
-
-* [Java_Homework_Code](/Java_Homework_Code)
 
